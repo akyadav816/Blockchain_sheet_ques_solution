@@ -1,0 +1,1 @@
+[{"inputs":[{"internalType":"uint256","name":"initial_supply","type":"uint256"}],"stateMutability":"nonpayable","type":"constructor"},{"inputs":[{"internalType":"address","name":"to","type":"address"},{"internalType":"uint256","name":"value","type":"uint256"}],"name":"transfers","outputs":[],"stateMutability":"nonpayable","type":"function"}]
