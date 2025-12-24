@@ -53,7 +53,6 @@ blockchain-solidity-questions/
       └── answers.md
 ```
 
-> You can modify the structure based on how you prefer to maintain questions.
 
 ---
 
