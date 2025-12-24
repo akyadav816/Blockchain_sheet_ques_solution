@@ -1,4 +1,3 @@
-# Blockchain_sheet_ques_solution
 # Blockchain & Solidity Questions Repository
 
 This repository contains a collection of **Blockchain and Solidity questions**, ranging from beginner to advanced levels.  
